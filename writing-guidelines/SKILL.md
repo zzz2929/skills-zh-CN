@@ -1,15 +1,15 @@
 ---
-name: web-design-guidelines
-description: 检查UI代码是否符合Web界面指南。当被要求“查看我的用户界面”、“检查可访问性”、“审核设计”、“查看用户体验”或“根据最佳实践检查我的网站”时使用。
+name: writing-guidelines
+description: 审查文档/散文是否符合写作指南。当被要求“审阅我的文档”、“检查写作风格”、“审核散文”、“审阅文档的语气和语调”或“对照写作手册检查此页”时使用。
 metadata:
   author: vercel
   version: "1.0.0"
   argument-hint: <file-or-pattern>
 ---
 
-# Web Interface Guidelines
+# Writing Guidelines
 
-Review files for compliance with Web Interface Guidelines.
+Review files for compliance with Writing Guidelines.
 
 ## How It Works
 
@@ -23,7 +23,7 @@ Review files for compliance with Web Interface Guidelines.
 Fetch fresh guidelines before each review:
 
 ```
-https://raw.githubusercontent.com/vercel-labs/web-interface-guidelines/main/command.md
+https://raw.githubusercontent.com/vercel-labs/writing-guidelines/main/command.md
 ```
 
 Use WebFetch to retrieve the latest rules. The fetched content contains all the rules and output format instructions.

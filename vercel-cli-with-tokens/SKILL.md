@@ -1,6 +1,6 @@
 ---
 name: vercel-cli-with-tokens
-description: 使用基于令牌的身份验证在Vercel上部署和管理项目。当使用访问令牌而非交互式登录来操作Vercel CLI时使用，例如“部署到vercel”、“设置vercel”、“向vercel添加环境变量”。
+description: 使用基于令牌的身份验证在Vercel上部署和管理项目。使用访问令牌而不是交互式登录使用Vercel CLI时使用，例如“部署到Vercel”、“设置Vercel”和“向Vercel添加环境变量”。
 metadata:
   author: vercel
   version: "1.0.0"

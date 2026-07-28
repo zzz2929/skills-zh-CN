@@ -1,6 +1,6 @@
 ---
 name: deploy-to-vercel
-description: 将应用程序和网站部署到Vercel。当用户请求部署操作时使用，如“部署我的应用程序”、“部署并给我链接”、“将其推送到线上”或“创建预览部署”。
+description: 将应用程序和网站部署到Vercel。当用户请求部署操作时使用，如“部署我的应用程序”、“部署并给我链接”、“实时推送”或“创建预览部署”。
 metadata:
   author: vercel
   version: "3.0.0"
