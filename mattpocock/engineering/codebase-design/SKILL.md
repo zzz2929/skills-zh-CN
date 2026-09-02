@@ -1,8 +1,7 @@
 ---
 name: codebase-design
-description: Shared vocabulary for designing deep modules. Use when the user wants to design or improve a module's interface, find deepening opportunities, decide where a seam goes, make code more testable or AI-navigable, or when another skill needs the deep-module vocabulary.
+description:用于设计深度模块的共享词汇表。当用户想要设计或改进模块的界面、寻找深化机会、决定接缝在哪里、使代码更具可测试性或人工智能可导航性，或者当另一项技能需要深度模块词汇表时使用。
 ---
-
 # Codebase Design
 
 Design **deep modules**: a lot of behaviour behind a small interface, placed at a clean seam, testable through that interface. Use this language and these principles wherever code is being designed or restructured. The aim is leverage for callers, locality for maintainers, and testability for everyone.
@@ -79,7 +78,6 @@ Good interfaces make testing natural:
      const gateway = new StripeGateway();
    }
    ```
-
 2. **Return results, don't produce side effects.**
 
    ```typescript
@@ -91,7 +89,6 @@ Good interfaces make testing natural:
      cart.total -= discount;
    }
    ```
-
 3. **Small surface area.** Fewer methods = fewer tests needed. Fewer params = simpler test setup.
 
 ## Relationships

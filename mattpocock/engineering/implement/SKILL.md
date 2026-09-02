@@ -1,9 +1,8 @@
 ---
 name: implement
-description: "Implement a piece of work based on a spec or set of tickets."
+description:“根据规范或一组票实现一项工作。”
 disable-model-invocation: true
 ---
-
 Implement the work described by the user in the spec or tickets.
 
 Use /tdd where possible, at pre-agreed seams.

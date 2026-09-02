@@ -1,9 +1,8 @@
 ---
 name: setup-matt-pocock-skills
-description: "Configure this repo for the engineering skills: set up its issue tracker, triage label vocabulary, and domain doc layout. Run once before first use of the other engineering skills."
+description:“为工程技能配置此仓库：设置其问题跟踪器、分类标签词汇表和域文档布局。在首次使用其他工程技能之前运行一次。”
 disable-model-invocation: true
 ---
-
 # Setup Matt Pocock's Skills
 
 Scaffold the per-repo configuration that the engineering skills assume:

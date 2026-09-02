@@ -1,9 +1,8 @@
 ---
 name: improve-codebase-architecture
-description: Scan a codebase for deepening opportunities, present them as a visual HTML report, then grill through whichever one you pick.
+description:扫描代码库以寻找深化机会，将其以可视化HTML报告的形式呈现，然后筛选出你选择的任何一个。
 disable-model-invocation: true
 ---
-
 # Improve Codebase Architecture
 
 Surface architectural friction and propose **deepening opportunities**: refactors that turn shallow modules into deep ones. The aim is testability and AI-navigability.

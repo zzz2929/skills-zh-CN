@@ -1,9 +1,8 @@
 ---
 name: writing-beats
-description: Writing, exploit; assemble raw material into a journey of beats, grounding each term before a beat leans on it.
+description: 写作、开发；将原材料组装成节拍之旅，在节拍依赖之前为每个学期打下基础。
 disable-model-invocation: true
 ---
-
 <what-to-do>
 
 The user has passed (or will pass) a markdown file of raw material. This is **exploit**: the exploring is done, the pile is fixed. Commit to a path through it and mine the pile to fill each beat.

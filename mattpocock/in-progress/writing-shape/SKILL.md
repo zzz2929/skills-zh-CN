@@ -1,9 +1,8 @@
 ---
 name: writing-shape
-description: "Writing, exploit: shape raw material into an article, paragraph by paragraph."
+description: “写作、利用：将原材料逐段地塑造成一篇文章。”
 disable-model-invocation: true
 ---
-
 <what-to-do>
 
 The user has passed (or will pass) a markdown file of raw material. Treat it as the input pile: anything from a tidy list of fragments to a wall of unstructured prose to a transcript. The format does not matter. Read it end-to-end before doing anything else.

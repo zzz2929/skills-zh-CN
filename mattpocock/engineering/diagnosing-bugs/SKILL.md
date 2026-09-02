@@ -1,8 +1,7 @@
 ---
 name: diagnosing-bugs
-description: Diagnosis loop for hard bugs and performance regressions. Use when the user says "diagnose"/"debug this", or reports something broken/throwing/failing/slow.
+description:硬错误和性能回归的诊断循环。当用户说“诊断”/“调试”，或报告出现故障/抛出/失败/运行缓慢时使用。
 ---
-
 # Diagnosing Bugs
 
 A discipline for hard bugs. Skip phases only when explicitly justified.
@@ -91,7 +90,7 @@ Generate **3–5 ranked hypotheses** before testing any of them. Single-hypothes
 
 Each hypothesis must be **falsifiable**: state the prediction it makes.
 
-> Format: "If <X> is the cause, then <changing Y> will make the bug disappear / <changing Z> will make it worse."
+> Format: "If <X></x> is the cause, then <changing Y></changing> will make the bug disappear / <changing Z></changing> will make it worse."
 
 If you cannot state the prediction, the hypothesis is a vibe: discard or sharpen it.
 

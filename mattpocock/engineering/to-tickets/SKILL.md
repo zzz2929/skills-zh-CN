@@ -1,9 +1,8 @@
 ---
 name: to-tickets
-description: Break a plan, spec, or the current conversation into a set of tracer-bullet tickets, each declaring its blocking edges, published to the configured tracker (edges as text in one file per ticket locally, or native blocking links on a real tracker).
+description:将一个计划、规范或当前对话分解为一组跟踪项目符号，每个项目符号都声明其阻塞边，并发布到配置的跟踪器（边在本地每个项目符号的一个文件中作为文本，或在真实跟踪器上作为本机阻塞链接）。
 disable-model-invocation: true
 ---
-
 # To Tickets
 
 Break a plan, spec, or conversation into a set of **tickets**: tracer-bullet vertical slices, each declaring the tickets that **block** it.
@@ -68,7 +67,7 @@ Do NOT close or modify any parent issue.
 
 <local-ticket-template>
 
-# <NN>: <Ticket title>
+# <NN></nn>: <Ticket title></ticket>
 
 **What to build:** the end-to-end behaviour this ticket makes work, from the user's perspective, not a layer-by-layer implementation list.
 

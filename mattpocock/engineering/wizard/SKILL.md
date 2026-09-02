@@ -1,8 +1,7 @@
 ---
 name: wizard
-description: Generate an interactive bash wizard that walks a human through steps only they can perform. Use when provisioning infrastructure, setting up credentials or CI secrets, walking an unfamiliar third-party dashboard, or running a one-off migration or cutover. Don't invoke this for steps the agent can perform itself.
+description:生成一个交互式bash向导，引导人们完成只有他们才能执行的步骤。在配置基础设施、设置凭据或CI机密、浏览不熟悉的第三方仪表板或运行一次性迁移或切换时使用。对于代理可以自行执行的步骤，不要调用此函数。
 ---
-
 # Wizard
 
 A **wizard** is a bash script that walks a human, step by step, through a manual procedure that's tedious to do by hand and tedious to re-explain to an AI every time. It opens each URL, says exactly what to click and copy, captures the values, writes them where they belong (`.env`, GitHub secrets), confirms at every stage, and shows how many stages are left. It might configure third-party services, run a one-off migration, or move the project from one state to another.
