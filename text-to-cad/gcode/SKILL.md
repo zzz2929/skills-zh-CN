@@ -1,8 +1,7 @@
 ---
 name: gcode
-description: Generate, inspect, dry-run, and statically validate plain FDM `.gcode` from 3D mesh files by orchestrating real slicer CLIs. Use when Codex needs to slice `.stl`, `.obj`, unsliced `.3mf`, `.ply`, `.glb`, or `.gltf` into printer-profiled G-code, discover local slicer backends, inspect whether a mesh is slice-ready, or validate generated G-code before any printer-specific handoff.
+description: 通过编排真正的切片器 CLI，从 3D 网格文件生成、检查、试运行和静态验证纯 FDM“.gcode”。当 Codex 需要将“.stl”、“.obj”、未切片的“.3mf”、“.ply”、“.glb”或“.gltf”切片为打印机配置文件的 G 代码、发现本地切片器后端、检查网格是否已准备好切片或在任何特定于打印机的切换之前验证生成的 G 代码时使用。
 ---
-
 # G-code
 
 Provenance: maintained in [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad).

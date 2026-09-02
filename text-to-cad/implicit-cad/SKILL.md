@@ -1,8 +1,7 @@
 ---
 name: implicit-cad
-description: Create, edit, render, and snapshot browser-native implicit CAD `.implicit.js` and `.implicit.mjs` files using GLSL signed-distance fields, shader primitives, smooth booleans, TPMS fields, and direct CAD Viewer raymarch rendering. Experimental.
+description: 使用 GLSL 带符号距离字段、着色器基元、平滑布尔值、TPMS 字段和直接 CAD 查看器 raymarch 渲染，创建、编辑、渲染和快照浏览器本机隐式 CAD `.implicit.js` 和 `.implicit.mjs` 文件。实验性的。
 ---
-
 # Implicit CAD
 
 Use this skill for implicit CAD models that should run directly in CAD Viewer as browser JS modules. The primary artifact is a `.implicit.js` or `.implicit.mjs`.

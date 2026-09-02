@@ -1,8 +1,7 @@
 ---
 name: sendcutsend
-description: Review DXF and STEP/STP uploads for SendCutSend.com orders using its ordering guide, catalog, and specs. Use only for SendCutSend.com preflight reports covering upload readiness, selected material/SKU/thickness/service availability, and service-specific checks for laser cutting, CNC routing, bending, tapping, countersinking, hardware insertion, and finishing.
+description: 使用其订购指南、目录和规格查看 SendCutSend.com 订单的 DXF 和 STEP/STP 上传。仅用于 SendCutSend.com 预检报告，涵盖上传准备情况、所选材料/SKU/厚度/服务可用性以及激光切割、CNC 铣削、弯曲、攻丝、埋头孔、硬件插入和精加工的特定服务检查。
 ---
-
 # SendCutSend
 
 Provenance: maintained in [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad).

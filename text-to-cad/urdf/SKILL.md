@@ -1,8 +1,7 @@
 ---
 name: urdf
-description: URDF robot description authoring and validation. Use when creating, editing, inspecting, validating, or debugging `.urdf` files, robot links, joints, limits, inertials, visual/collision geometry, mesh references, frame conventions, or robot-description artifacts. Use the SRDF skill for MoveIt2 semantic groups and IK/path-planning semantics; use the cad-viewer skill for local MoveIt2 server controls; use the CAD skill for STEP/STL/3MF/DXF/GLB outputs.
+description: URDF 机器人描述创作和验证。在创建、编辑、检查、验证或调试“.urdf”文件、机器人链接、关节、限制、惯性、视觉/碰撞几何、网格参考、框架约定或机器人描述工件时使用。将 SRDF 技能用于 MoveIt2 语义组和 IK/路径规划语义；使用 cad-viewer 技能进行本地 MoveIt2 服务器控件；使用 CAD 技能进行 STEP/STL/3MF/DXF/GLB 输出。
 ---
-
 # URDF
 
 Provenance: maintained in [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad).

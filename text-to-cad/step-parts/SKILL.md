@@ -1,8 +1,7 @@
 ---
 name: step-parts
-description: Find, evaluate, and download common purchasable CAD parts from step.parts, including named off-the-shelf actuators, servos, motors, electronics boards, connectors, screws, bolts, nuts, washers, bearings, standoffs, and other catalog components. Use when Codex needs to search the hosted step.parts catalog before creating simplified placeholder geometry, resolve fuzzy part names, standards, aliases, or dimensions, choose a matching part, fetch a canonical .step file, verify checksums, or use the step.parts API/OpenAPI/catalog endpoints for standard part discovery.
+description: 从 step.parts 查找、评估和下载常见的可购买 CAD 零件，包括指定的现成执行器、伺服系统、电机、电子板、连接器、螺钉、螺栓、螺母、垫圈、轴承、支座和其他目录组件。当 Codex 需要在创建简化的占位符几何体之前搜索托管的 step.parts 目录、解析模糊零件名称、标准、别名或尺寸、选择匹配零件、获取规范 .step 文件、验证校验和或使用 step.parts API/OpenAPI/catalog 端点进行标准零件发现时使用。
 ---
-
 # CAD Parts
 
 Provenance: maintained in [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad).

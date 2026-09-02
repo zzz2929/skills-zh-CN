@@ -1,8 +1,7 @@
 ---
 name: srdf
-description: MoveIt2 SRDF authoring, validation, and planning-semantics workflow. Use when creating, editing, inspecting, or validating `.srdf` files, MoveIt planning groups, virtual joints, passive joints, end effectors, group states, disabled collisions, URDF-paired planning semantics, or SRDF handoff for live review. Use the URDF skill for robot structure, the SDF skill for simulator descriptions, and the cad-viewer skill for rendering, live review links, and optional MoveIt2 controls.
+description: MoveIt2 SRDF 创作、验证和规划语义工作流程。在创建、编辑、检查或验证“.srdf”文件、MoveIt 规划组、虚拟关节、被动关节、末端执行器、组状态、禁用碰撞、URDF 配对规划语义或用于实时审查的 SRDF 切换时使用。使用 URDF 技能进行机器人结构，使用 SDF 技能进行模拟器描述，使用 cad-viewer 技能进行渲染、实时查看链接和可选的 MoveIt2 控件。
 ---
-
 # SRDF
 
 Provenance: maintained in [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad).

@@ -1,8 +1,7 @@
 ---
 name: sdf
-description: SDFormat/SDF model and world authoring, validation, and simulator handoff. Use for `.sdf` files, SDFormat XML, models, worlds, links, joints, poses, frames, inertials, visual/collision geometry, mesh URIs, sensors, lights, physics, plugins, includes, Gazebo, static SDF review, or simulator-specific metadata. Do not use for signed-distance-field geometry.
+description: SDFormat/SDF 模型和世界创作、验证和模拟器切换。用于“.sdf”文件、SDFormat XML、模型、世界、链接、关节、姿势、框架、惯性、视觉/碰撞几何、网格 URI、传感器、灯光、物理、插件、包括、Gazebo、静态 SDF 审查或模拟器特定的元数据。请勿用于有符号距离场几何。
 ---
-
 # SDF
 
 Provenance: maintained in [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad).
